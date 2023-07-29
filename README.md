@@ -45,18 +45,18 @@ The key components within the scope of the project include:
 ## LITERATURE REVIEW 
 ### 2.1 Existing Systems
 1. E. Znidersic, "Camera Traps are an Effective Tool for Monitoring Lewin’s Rail
-(Lewiniapectoralisbrachipus)<br>
+(Lewiniapectoralisbrachipus)<br><br>
   a. Camera traps have gained popularity in wildlife monitoring and surveys because of their
   efficiency in collecting wildlife images without monitoring.<br>
   b. Using camera traps located to maximize detection probability, images from 1,213 camera
   events quantified Lewin's Rail occurrence and temporal variation in activity.<br>
   c. Although camera traps cannot replace other avian survey methods, they provide a
   complementary method for collecting behavioral data on Lewin's Rail and other
-  ecologically similar species.<br>
+  ecologically similar species.<br><br>
 2. Duhart C, Dublon G, Mayton B, and Paradiso J. ‘Deep Learning Locally Trained Wildlife
 Sensing in Real Acoustic Wetland Environment’. In Thampi SM, Marques O, Krishnan S,
 Ciuonzo D and Kolekar MH (eds.), Advances in Signal Processing and Intelligent Recognition
-Systems, 2019: 3–14.<br>
+Systems, 2019: 3–14.<br><br>
   a. Identifying the sound of animals and processing it by concepts of signal processing and
   deep learning.<br>
   b. This article presents the entire Tidzam system, which has been designed in order to
@@ -64,14 +64,14 @@ Systems, 2019: 3–14.<br>
   such as insects, small animals and local bird species from microphones deployed on the
   site.<br>
   c. This experiment provides insight on the usage of deep learning technology in a real
-  deployment.<br>
+  deployment.<br><br>
 3. Santhiya S, Dhamodharan Y, Kavi Priya NE,. Santhosh CS and Surekha M. ‘A Smart
 Farmland Using Raspberry Pi Crop Prevention and Animal Intrusion Detection System ‘.
-International Research Journal of Engineering and Technology (IRJET), 2018; 05(03)<br>
+International Research Journal of Engineering and Technology (IRJET), 2018; 05(03)<br><br>
   a. Camera interfaced to the raspberry pi module. Camera is used to captures an image of
   wild animal and send captured image to the Raspberry pi module.<br>
   b. When image taken by the raspberry pi, it is compared with database image. After
   comparing images, if the wild animal is detected then it gives commands to GSM (Global
   System for Mobile communication) module.<br>
   c. GSM used to send the message to the owner of the farm. To get the output in the form of
-  audio, connect raspberry pi to the speaker.<br>
+  audio, connect raspberry pi to the speaker.<br><br>
